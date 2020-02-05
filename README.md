@@ -20,4 +20,7 @@ npm run test
 ### Run test suite without headless mode and in slow motion
 ```
 HEADLESS="false" SLOWMO=100 npm run test
+HEADLESS="false" SLOWMO=100 jest screenshot
 ```
+
+
